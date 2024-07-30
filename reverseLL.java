@@ -1,3 +1,5 @@
+//here we used stack data-structure to reverse the linked-list.
+//video explanation --> https://www.youtube.com/watch?v=D2vI2DNJGd8&t=8s
 import java.util.*;
 public class reverseLL{
     public static void main(String[] args) {
