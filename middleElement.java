@@ -1,5 +1,6 @@
-//the approach is pretty simple, fisrt i am counting total nodes present in the LinkedList.
+//the approach is pretty simple, first i am counting total nodes present in the LinkedList.
 //Secondly, i am findig the middle element and traversing the linkedlist agin to return the middle data.
+//video link --> https://www.youtube.com/watch?v=7LjQ57RqgEc
 public class middleElement{
     public static int findMiddleElement(node<Integer> head){
         //first we will count the total number of nodes.
